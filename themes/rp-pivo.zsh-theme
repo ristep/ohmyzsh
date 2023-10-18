@@ -2,6 +2,7 @@
 #
 # Based on bira theme
 #
+
 setopt prompt_subst
 
 () {

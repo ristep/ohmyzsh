@@ -1,3 +1,7 @@
+#
+# rp-bira theme based on bira theme
+#
+
 local return_code="%(?..%{$fg[red]%}%? ↵%{$reset_color%})"
 local user_host="%B%(!.%{$fg[red]%}.%{$fg[green]%})%n@%m%{$reset_color%} "
 local user_symbol='%(!.#.$)'

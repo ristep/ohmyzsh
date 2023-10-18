@@ -1,4 +1,7 @@
+# rp-gnzh theme bazed on gnzh 
+#
 # Based on bira theme
+#
 
 # Function to display the active Python virtual environment
 virtualenv_prompt_info() {
