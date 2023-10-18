@@ -1,5 +1,7 @@
+# Pivo theme bazed on gnzh 
+#
 # Based on bira theme
-
+#
 setopt prompt_subst
 
 () {
